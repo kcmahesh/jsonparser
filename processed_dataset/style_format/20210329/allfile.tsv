@@ -1,0 +1,5 @@
+id	detail_info_country_name	detail_info_country_capital	detail_info_popular_state	detail_info_country_phone_code	detail_info_style_version	detail_info_style_create_date	detail_info_style_vowel	record_id	attribute_hash
+0	Global Country	None	None	0	1	2019-10-04	100.0	1	8a00ee0509479cb0e5db5ffa154f2dba45b47ae3
+1	United States	Washing DC		1	1	2019-10-04	20.0	2	58e25cfcd4f1556adae0ab45fd228e558f85a189
+2	European	Washing DC		0	1	2019-10-04		3	60fc94cea6d14a741d32683574a73fbba81e7513
+3	United Kingdom	Washing DC		0	1	2019-10-04	20.0	4	58e25cfcd4f1556adae0ab45fd228e558f85a189

@@ -1,0 +1,34 @@
+{
+    "metadata": {
+        "created_by": "kcmahesh",
+        "created_date": "2021-03-29 18:05:02",
+        "email": "engineering@analyticstensor.com",
+        "total_data_element": 4
+    },
+    "data_attributes": [
+        {
+            "record_id": 1,
+            "total_element": 8,
+            "attribute_name": "id,detail_info_country_name,detail_info_country_capital,detail_info_popular_state,detail_info_country_phone_code,detail_info_style_version,detail_info_style_create_date,detail_info_style_vowel",
+            "attribute_hash": "8a00ee0509479cb0e5db5ffa154f2dba45b47ae3"
+        },
+        {
+            "record_id": 2,
+            "total_element": 8,
+            "attribute_name": "id,detail_info_country_name,detail_info_country_capital,detail_info_country_phone_code,detail_info_style_version,detail_info_style_create_date,detail_info_style_constant,detail_info_style_vowel",
+            "attribute_hash": "58e25cfcd4f1556adae0ab45fd228e558f85a189"
+        },
+        {
+            "record_id": 3,
+            "total_element": 7,
+            "attribute_name": "id,detail_info_country_name,detail_info_country_capital,detail_info_country_phone_code,detail_info_style_version,detail_info_style_create_date,detail_info_style_constant",
+            "attribute_hash": "60fc94cea6d14a741d32683574a73fbba81e7513"
+        },
+        {
+            "record_id": 4,
+            "total_element": 8,
+            "attribute_name": "id,detail_info_country_name,detail_info_country_capital,detail_info_country_phone_code,detail_info_style_version,detail_info_style_create_date,detail_info_style_constant,detail_info_style_vowel",
+            "attribute_hash": "58e25cfcd4f1556adae0ab45fd228e558f85a189"
+        }
+    ]
+}
